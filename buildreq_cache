@@ -2,3 +2,4 @@
 libxml2-dev
 llvm-dev
 pypi-cython
+zlib-dev
