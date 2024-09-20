@@ -1,0 +1,2 @@
+# Clean up extraneous files that don't belong in a vendor-provided package
+rm -rf %{buildroot}/usr/lib/python3*/site-packages/{benchmarks,cmake_modules,examples,scripts,pyarrow/include}
