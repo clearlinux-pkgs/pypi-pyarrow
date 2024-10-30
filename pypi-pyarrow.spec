@@ -7,7 +7,7 @@
 #
 Name     : pypi-pyarrow
 Version  : 17.0.0
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/27/4e/ea6d43f324169f8aec0e57569443a38bab4b398d09769ca64f7b4d467de3/pyarrow-17.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/27/4e/ea6d43f324169f8aec0e57569443a38bab4b398d09769ca64f7b4d467de3/pyarrow-17.0.0.tar.gz
 Summary  : Python library for Apache Arrow
