@@ -1,5 +1,5 @@
-17.0.0
+20.0.0
 libxml2-dev
 llvm-dev
-pypi-cython
+python3-dev
 zlib-dev

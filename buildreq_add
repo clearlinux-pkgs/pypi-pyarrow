@@ -3,3 +3,4 @@
 buildreq-cmake
 pypi(arrow)
 pypi(numpy)
+apache-arrow-dev
